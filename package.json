@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "NodeJs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "{"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagePadawan/twitter-bot.git"
+  },
+  "keywords": [
+    "git",
+    "twitter-bot"
+  ],
+  "author": "Gbemi Ojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagePadawan/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/SagePadawan/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
